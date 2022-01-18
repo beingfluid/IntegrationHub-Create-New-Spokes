@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_accept" label="Accept" language="en" table="var__m_connection_attributes_e3b9ae7e07c901100afaff208c1ed041">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_accept</element>
+            <help/>
+            <hint/>
+            <label>Accept</label>
+            <language>en</language>
+            <name>var__m_connection_attributes_e3b9ae7e07c901100afaff208c1ed041</name>
+            <plural>Accept</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-18 14:17:12</sys_created_on>
+            <sys_id>ca3beebe07c901100afaff208c1ed06c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Accept</sys_name>
+            <sys_package display_value="SN Trivia Spoke" source="x_snc_sn_trivia_sp">d5fcd76607c101100afaff208c1ed04a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN Trivia Spoke">d5fcd76607c101100afaff208c1ed04a</sys_scope>
+            <sys_update_name>sys_documentation_var__m_connection_attributes_e3b9ae7e07c901100afaff208c1ed041_u_accept_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-18 14:17:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
